@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Particles 3D",
+  "description": "A real-time interactive 3D particle system controlled by hand gestures. Shape-shift particles into hearts, planets, and more using your webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
